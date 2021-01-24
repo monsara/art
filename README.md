@@ -30,6 +30,8 @@ of Android/iOS, etc.
 -   Using PHP server
 -   Using Fatch API to post form data to the server
 -   Informing еру user about the progress of posting form data to the server
+-   Using mask for input with phone nomber
+-   Text validation for text inputs (only allow cyrillic characters and numbers)
 
 ## Libs, frameworks
 
