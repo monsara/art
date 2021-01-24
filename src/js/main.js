@@ -1,5 +1,6 @@
 import modals from './moules/modals';
 import sliders from './moules/sliders';
+import forms from './moules/forms';
 
 window.addEventListener('DOMContentLoaded', () => {
     'use stict';
@@ -12,4 +13,5 @@ window.addEventListener('DOMContentLoaded', () => {
         '.main-next-btn',
     );
     sliders('.main-slider-item', 'vertical');
+    forms();
 });
