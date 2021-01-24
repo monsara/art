@@ -22,7 +22,7 @@ of Android/iOS, etc.
 -   Using modules for features
 -   Opening modal windows when clicking on modal triggers
 -   Opening modal windows after a set time
--   Opening modal windows on scrollin to the end of landing page
+-   Opening modal windows on scrolling to the end of landing page
 -   Сlosing modal windows by pressing close button and modal backdrop
 -   Destroing modal tirger on open modal window
 -   Vertical and horisontal sliders
