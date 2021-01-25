@@ -32,6 +32,8 @@ of Android/iOS, etc.
 -   Informing еру user about the progress of posting form data to the server
 -   Using mask for input with phone nomber
 -   Text validation for text inputs (only allow cyrillic characters and numbers)
+-   Getting data from server using Fetch API for uploading more styles in styles
+    section
 
 ## Libs, frameworks
 

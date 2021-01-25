@@ -1,9 +1,9 @@
-import modals from './moules/modals';
-import sliders from './moules/sliders';
-import forms from './moules/forms';
-import mask from './moules/mask';
-import checkTextInputs from './moules/checkTextInputs';
-import showMoreStyles from './moules/showMoreStyles';
+import modals from './modules/modals';
+import sliders from './modules/sliders';
+import forms from './modules/forms';
+import mask from './modules/mask';
+import checkTextInputs from './modules/checkTextInputs';
+import showMoreStyles from './modules/showMoreStyles';
 
 window.addEventListener('DOMContentLoaded', () => {
     'use stict';
@@ -20,5 +20,5 @@ window.addEventListener('DOMContentLoaded', () => {
     mask('[name="phone"]');
     checkTextInputs('input[name="name"]');
     checkTextInputs('input[name="message"]');
-    showMoreStyles('.button-styles', '.styles-2');
+    showMoreStyles('.button-styles', '#styles .row');
 });
