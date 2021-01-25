@@ -3,6 +3,7 @@ import sliders from './moules/sliders';
 import forms from './moules/forms';
 import mask from './moules/mask';
 import checkTextInputs from './moules/checkTextInputs';
+import showMoreStyles from './moules/showMoreStyles';
 
 window.addEventListener('DOMContentLoaded', () => {
     'use stict';
@@ -19,4 +20,5 @@ window.addEventListener('DOMContentLoaded', () => {
     mask('[name="phone"]');
     checkTextInputs('input[name="name"]');
     checkTextInputs('input[name="message"]');
+    showMoreStyles('.button-styles', '.styles-2');
 });
