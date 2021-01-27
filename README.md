@@ -34,6 +34,7 @@ of Android/iOS, etc.
 -   Text validation for text inputs (only allow cyrillic characters and numbers)
 -   Getting data from server using Fetch API for uploading more styles in styles
     section
+-   Filtration portfolio works
 
 ## Libs, frameworks
 

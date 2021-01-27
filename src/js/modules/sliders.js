@@ -1,4 +1,4 @@
-const sliders = (slides, direction, prev, next) => {
+const sliders = ({ slides, direction, prev, next }) => {
     let slideIndex = 1;
     let paused = false;
 
