@@ -35,6 +35,7 @@ of Android/iOS, etc.
 -   Getting data from server using Fetch API for uploading more styles in styles
     section
 -   Filtration portfolio works
+-   Replace images on mouseover event in sizes section
 
 ## Libs, frameworks
 
