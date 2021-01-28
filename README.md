@@ -37,6 +37,8 @@ of Android/iOS, etc.
 -   Filtration portfolio works
 -   Replace images on mouseover event in sizes section
 -   Toggle accordions in Often questions section
+-   Showing burger menu on tablet screens and bellow, and hide it when resizing
+    if the screen is less than 992px
 
 ## Libs, frameworks
 
