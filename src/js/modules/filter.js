@@ -38,9 +38,19 @@ const filter = () => {
                 `.portfolio-block${className}`,
             );
 
-            btn.addEventListener('click', () => {
-                typeFilter(type.length > 0 ? type : false);
-            });
+            if (type.length > 0) {
+                btn.addEventListener('click', () => {
+                    typeFilter(type);
+                });
+            } else {
+                btn.addEventListener('click', () => {
+                    typeFilter();
+                });
+            }
+
+            // btn.addEventListener('click', () => {
+            //     typeFilter(type.length > 0 ? type : false);
+            // });
 
             btn.click();
         }

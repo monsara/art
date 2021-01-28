@@ -36,6 +36,7 @@ of Android/iOS, etc.
     section
 -   Filtration portfolio works
 -   Replace images on mouseover event in sizes section
+-   Toggle accordions in Often questions section
 
 ## Libs, frameworks
 
