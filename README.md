@@ -39,6 +39,7 @@ of Android/iOS, etc.
 -   Toggle accordions in Often questions section
 -   Showing burger menu on tablet screens and bellow, and hide it when resizing
     if the screen is less than 992px
+-   Drag-and-Drop picture uploading in forms
 
 ## Libs, frameworks
 
