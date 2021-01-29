@@ -1,4 +1,4 @@
-# Loan multipage web site
+# Art web page
 
 Add JavaScript logic for multipage web site components according to the technical task from the course ["Practical JavaScript (Advanced)"](https://www.udemy.com/course/javascript_practice/) on Udemy platform.
 
