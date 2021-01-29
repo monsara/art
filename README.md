@@ -26,7 +26,7 @@ of Android/iOS, etc.
 -   Сlosing modal windows by pressing close button and modal backdrop
 -   Destroing modal tirger on open modal window
 -   Vertical and horisontal sliders
--   Auto chenging slides
+-   Auto switching slides
 -   Using PHP server
 -   Using Fatch API to post form data to the server
 -   Informing еру user about the progress of posting form data to the server
