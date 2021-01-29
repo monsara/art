@@ -1,8 +1,8 @@
 # art
 
-https://monsara.github.io/art/dist
-
 Add JavaScript logic for the web page components according to the tasks from the course ["Practical JavaScript (Advanced)"](https://www.udemy.com/course/javascript_practice/) on Udemy platform.
+
+https://monsara.github.io/art/dist
 
 ## Browser Support
 
