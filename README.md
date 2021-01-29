@@ -2,7 +2,9 @@
 
 Add JavaScript logic for the web page components according to the tasks from the course ["Practical JavaScript (Advanced)"](https://www.udemy.com/course/javascript_practice/) on Udemy platform.
 
-https://monsara.github.io/art/dist
+Technical task: https://docs.google.com/document/d/1UFU42VTlqKQ8VIhco3l_K6M6oGlfFAK1MAqlkpcRG0I/edit
+
+GitHup Page: https://monsara.github.io/art/dist
 
 ## Browser Support
 
