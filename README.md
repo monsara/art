@@ -1,6 +1,6 @@
 # Art web site
 
-Add logic for the web site components in pure JavaScript according to the technical task from the course ["Practical JavaScript (Advanced)"](https://www.udemy.com/course/javascript_practice/) on Udemy platform.
+Add logic for the web site components in pure JavaScript in classic style according to the technical task from the course ["Practical JavaScript (Advanced)"](https://www.udemy.com/course/javascript_practice/) on Udemy platform.
 
 Technical task: https://docs.google.com/document/d/1UFU42VTlqKQ8VIhco3l_K6M6oGlfFAK1MAqlkpcRG0I/edit
 
