@@ -20,7 +20,7 @@ const scrolling = upSelector => {
         link.addEventListener('click', function (event) {
             event.preventDefault();
 
-            let widthTop = document.documentElement.scrollTop,
+            let heightTop = document.documentElement.scrollTop,
                 hash = this.hash,
                 toBlock = document.querySelector(hash).getBoundingClientRect()
                     .top,
@@ -37,17 +37,17 @@ const scrolling = upSelector => {
                     r =
                         toBlock < 0
                             ? Math.max(
-                                  widthTop - progress / speed,
-                                  widthTop + toBlock,
+                                  heightTop - progress / speed,
+                                  heightTop + toBlock,
                               )
                             : Math.min(
-                                  widthTop + progress / speed,
-                                  widthTop + toBlock,
+                                  heightTop + progress / speed,
+                                  heightTop + toBlock,
                               );
 
                 document.documentElement.scrollTo(0, r);
 
-                if (r != widthTop + toBlock) {
+                if (r != heightTop + toBlock) {
                     requestAnimationFrame(step);
                 } else {
                     location.hash = hash;

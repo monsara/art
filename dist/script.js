@@ -5513,7 +5513,7 @@ var scrolling = function scrolling(upSelector) {
   links.forEach(function (link) {
     link.addEventListener('click', function (event) {
       event.preventDefault();
-      var widthTop = document.documentElement.scrollTop,
+      var heightTop = document.documentElement.scrollTop,
           hash = this.hash,
           toBlock = document.querySelector(hash).getBoundingClientRect().top,
           start = null;
@@ -5525,10 +5525,10 @@ var scrolling = function scrolling(upSelector) {
         }
 
         var progress = time - start,
-            r = toBlock < 0 ? Math.max(widthTop - progress / speed, widthTop + toBlock) : Math.min(widthTop + progress / speed, widthTop + toBlock);
+            r = toBlock < 0 ? Math.max(heightTop - progress / speed, heightTop + toBlock) : Math.min(heightTop + progress / speed, heightTop + toBlock);
         document.documentElement.scrollTo(0, r);
 
-        if (r != widthTop + toBlock) {
+        if (r != heightTop + toBlock) {
           requestAnimationFrame(step);
         } else {
           location.hash = hash;
