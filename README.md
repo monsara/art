@@ -1,10 +1,10 @@
-# art
+# Art web site
 
-https://monsara.github.io/art/dist
+Add logic for the web site components in pure JavaScript according to the technical task from the course ["Practical JavaScript (Advanced)"](https://www.udemy.com/course/javascript_practice/) on Udemy platform.
 
-Add logic to the landing page according to the tasks from the course on Udemy
-platform: "Practical JavaScript (Advanced)"
-["Practical JavaScript (Advanced)"](https://www.udemy.com/course/javascript_practice/)
+Technical task: https://docs.google.com/document/d/1UFU42VTlqKQ8VIhco3l_K6M6oGlfFAK1MAqlkpcRG0I/edit
+
+GitHup Page: https://monsara.github.io/art/dist
 
 ## Browser Support
 
@@ -26,7 +26,7 @@ of Android/iOS, etc.
 -   Сlosing modal windows by pressing close button and modal backdrop
 -   Destroing modal tirger on open modal window
 -   Vertical and horisontal sliders
--   Auto chenging slides
+-   Auto switching slides
 -   Using PHP server
 -   Using Fatch API to post form data to the server
 -   Informing еру user about the progress of posting form data to the server
